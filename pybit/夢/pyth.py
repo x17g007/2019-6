@@ -1,5 +1,4 @@
-#多分サンプルをもとにいじったもの
-
+#見てもよくわからないので、サンプルをもとに少しだけいじったものだと思う
 import time
 import pybitflyer
 import requests
