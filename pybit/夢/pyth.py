@@ -1,4 +1,4 @@
-#見てもよくわからないので、サンプルをもとに少しだけいじったものだと思う
+#あまり記憶にないので、サンプルをもとに少しだけいじったものだと思う
 import time
 import pybitflyer
 import requests
