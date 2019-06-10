@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#たしかこれがメインで書いてたやつです
 import pybitflyer
 import time
 from statistics import mean, median,variance,stdev
