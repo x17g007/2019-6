@@ -1,0 +1,20 @@
+﻿loopIFDOCO
+
+メソッド
+Asset()
+api.getbalance("currency_code" : "BTC")
+return asset
+
+
+ロング(10E)
+while timesleep(0.1)
+	while()
+	Asset(asset)
+	if asset < 15 :
+		if midprice > before_midprice:
+			IFDOCO注文(midprice / midprice + 10 / midprice - 500)
+	break
+			
+	
+	
+	
