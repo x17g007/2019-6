@@ -1,11 +1,13 @@
+#多分サンプルをもとにいじったもの
+
 import time
 import pybitflyer
 import requests
 import datetime
 import numpy as np
 
-key = "WbENSqwxEDndU6cC8wKmob" #BitFlyerの通常APIキー
-secret = "BLTT7N5u2b88XKPLqgXPGVJeF8gyW185VzQmYoKKG8s=" #BitFlyerのシークレットキー
+key = "" #BitFlyerの通常APIキー
+secret = "" #BitFlyerのシークレットキー
 bf = pybitflyer.API(key,secret)
 product_code = "FX_BTC_JPY" #FX_BTC_JPYを対象とする
 order_type   = "MARKET" #成り行き
